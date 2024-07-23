@@ -1,0 +1,45 @@
+.smallbox{
+    border-bottom: 1px solid #34383D;
+    padding :8px 32px 8px 32px;
+    font-family: Open Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16.34px;
+text-align: left;
+height: 24x;
+color: #BAB9BD;
+
+
+
+}
+.container{
+    box-sizing: border-box;
+   /* background: #141517; */
+   z-index: 20;
+   bottom: 20px;
+   height: 80%;
+}
+.smallbox span{
+    font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16.34px;
+text-align: left;
+color: #E7E7E7;
+
+
+}
+
+    .button{
+        /* width: Hug (136px)px;
+    height: Hug (40px)px; */
+    padding: 8px 40px 8px 24px;
+    gap: 10px;
+    border-radius: 4px;
+    opacity: 0px;
+    
+        background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+   
+    
+    }
+    

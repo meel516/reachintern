@@ -45,7 +45,8 @@ opacity: 0px;
 
 }
 .main{
-    @apply flex-1;
+    /* @apply flex-1; */
+    height: 91%;
 }
 .navbar{
     @apply flex justify-between;
